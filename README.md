@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sanjaysatheeshh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..sanjaysatheesh1346@gmail.com
+- Hi, I’m @sanjaysatheeshh
+- I’m interested in coding
+- I’m currently learning flutter
+- I’m looking to collaborate on ...
+- How to reach me ..sanjaysatheesh1346@gmail.com
 
 <!---
 sanjaysatheeshh/sanjaysatheeshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
